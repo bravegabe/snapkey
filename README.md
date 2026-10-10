@@ -38,6 +38,10 @@ Choose your capture key and your add-to-batch key, and turn on Launch at Login. 
 
 ## Install
 
+![Snapkey in Launchpad](images/snapkey-launchpad.png)
+
+Snapkey is signed by Brave People, LLC and notarized by Apple, so it opens without security warnings.
+
 1. Download the DMG from the [latest release](https://github.com/bravegabe/snapkey/releases/latest).
 2. Open it and drag Snapkey to Applications.
 3. Launch Snapkey. The welcome window walks you through the one permission it needs.
