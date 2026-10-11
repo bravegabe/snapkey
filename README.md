@@ -54,7 +54,10 @@ Snapkey is signed by Brave People, LLC and notarized by Apple, so it opens witho
 
 ## Permission
 
-Snapkey needs **Screen Recording** access, which macOS requires of any app that captures the screen. It only captures when you tap its key, and the image goes straight to your clipboard. Your screenshots never leave your Mac. The only network request Snapkey makes is the daily update check, which asks GitHub for the latest version number and sends nothing about you or your screen.
+Snapkey needs **Screen Recording** access, which macOS requires of any app that captures the screen. It only captures when you tap its key, and the image goes straight to your clipboard. Your screenshots never leave your Mac. Snapkey goes online for two things only:
+
+- **Update check.** Once a day it asks GitHub for the latest version number.
+- **Anonymous usage counts.** Once a day it reports how many captures, batch adds and re-shoots you made, along with the app version, the macOS version and a random install number. It never sends screenshots or anything about what is on your screen, and nothing identifies you. Turn it off with **Share Anonymous Usage Stats** in the menu.
 
 ---
 
