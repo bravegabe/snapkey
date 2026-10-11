@@ -1,6 +1,6 @@
 <p align="center"><img src="images/icon.png" width="128" alt="Snapkey icon"></p>
 
-<h1 align="center">Snapkey</h1>
+<h1 align="center">Snapkey®</h1>
 
 <p align="center"><b>Screenshots with one finger.</b><br>
 Tap one key, drag, release. The shot is on your clipboard.</p>
@@ -14,7 +14,7 @@ Tap one key, drag, release. The shot is on your clipboard.</p>
 
 macOS can already copy a region of the screen to the clipboard, but the shortcut is a four-key chord (⌃⇧⌘4) that takes a whole hand and pulls you out of what you're doing.
 
-Snapkey turns it into a single tap of one modifier key, such as Right Command, the key sitting just above the trackpad. Your hand never leaves the trackpad.
+Snapkey® turns it into a single tap of one modifier key, such as Right Command, the key sitting just above the trackpad. Your hand never leaves the trackpad.
 
 ## How it works
 
