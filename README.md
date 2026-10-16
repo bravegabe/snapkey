@@ -8,7 +8,7 @@ Tap one key, drag, release. The shot is on your clipboard.</p>
 <p align="center"><a href="https://github.com/bravegabe/snapkey/releases/latest"><b>Download for Mac</b></a><br>
 <sub>macOS 13 or later · Apple silicon and Intel · signed and notarized</sub></p>
 
-![Snapkey capturing part of a window](images/snapkey-in-action.png)
+![Snapkey capturing part of a window](images/snapkey-in-action-r.png)
 
 ## Why
 
@@ -36,7 +36,7 @@ Snapkey doesn't cap a batch, but the app you paste into may: some take every ima
 
 ## Lives in the menu bar
 
-![Snapkey menu](images/snapkey-menubar.png)
+![Snapkey menu](images/snapkey-menubar-r.png)
 
 Choose your capture key and your add-to-batch key, and turn on Launch at Login. There are no other windows or settings.
 
@@ -46,7 +46,7 @@ Snapkey checks once a day for a new version and shows you what changed, with a b
 
 ## Install
 
-![Snapkey in Launchpad](images/snapkey-launchpad.png)
+![Snapkey in Launchpad](images/snapkey-launchpad-r.png)
 
 Snapkey is signed by Brave People, LLC and notarized by Apple, so it opens without security warnings.
 
