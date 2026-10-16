@@ -26,11 +26,11 @@ Press Esc to cancel a capture. **Double-tap** the key to capture the same area a
 
 ## Batch several shots into one paste
 
-Tap a second key (Right Option by default) and the next shot is **added** to the clipboard instead of replacing it. Grab three or four things in a row, paste once, and they all land together.
+Tap a second key (Right Option by default) and the next shot is **added** to the clipboard instead of replacing it. There's no limit: grab as many as you need, paste once, and they all land together.
 
 While a batch is on your clipboard, the menu bar icon shows how many shots are in it.
 
-Whether a batch pastes as several images depends on the app you paste into. Some apps take every image; others take only the first.
+Snapkey doesn't cap a batch, but the app you paste into may: some take every image, some cap how many they accept at once, and others take only the first.
 
 ## Lives in the menu bar
 
