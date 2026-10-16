@@ -36,7 +36,7 @@ Snapkey doesn't cap a batch, but the app you paste into may: some take every ima
 
 ## Lives in the menu bar
 
-![Snapkey menu](images/snapkey-menubar-r3.png)
+![Snapkey menu](images/snapkey-menubar-r4.png)
 
 Everything is in one short menu:
 
