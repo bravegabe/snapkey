@@ -36,7 +36,7 @@ Snapkey doesn't cap a batch, but the app you paste into may: some take every ima
 
 ## Lives in the menu bar
 
-![Snapkey menu](images/snapkey-menubar-r2.png)
+![Snapkey menu](images/snapkey-menubar-r3.png)
 
 Choose your capture key and your add-to-batch key, and turn on Launch at Login. There are no other windows or settings.
 
