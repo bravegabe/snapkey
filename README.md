@@ -38,11 +38,18 @@ Snapkey doesn't cap a batch, but the app you paste into may: some take every ima
 
 ![Snapkey menu](images/snapkey-menubar-r3.png)
 
-Choose your capture key and your add-to-batch key, and turn on Launch at Login. There are no other windows or settings.
+Everything is in one short menu:
+
+- **Capture Now**, **Capture and Add to Batch** and **Capture Last Region Again**, for when you'd rather click than tap.
+- **Capture Key** and **Batch Key** submenus, where you pick the key for each. A checkmark shows the current one.
+- **Launch at Login** and **Share Anonymous Usage Stats**, on or off.
+- An **Updates** submenu with **Check Automatically**, **Check Now** and **What's New**.
+
+There are no other windows or settings.
 
 ## Updates
 
-Snapkey checks once a day for a new version and shows you what changed, with a button to download it. You can turn the check off in the menu.
+Snapkey checks once a day for a new version and shows you what changed, with a button to download it. You can turn the check off under **Updates › Check Automatically** in the menu.
 
 ## Install
 
