@@ -34,6 +34,8 @@ While a batch is on your clipboard, the menu bar icon shows how many shots are i
 
 To check a batch before you paste, choose **Review Batch** in the menu. You'll see every shot in paste order: remove one with its ×, or drag them into a new order. The clipboard updates as you go, so a bad shot doesn't mean starting over.
 
+You can also type a label under any shot. A labeled shot pastes with a caption bar on top, like **3 · Checkout error state**, so Claude or anyone reading can tell your screens apart, even in a batch of 20. The bar sits above the screenshot, so nothing in it is covered, and shots without a label paste untouched.
+
 Snapkey doesn't cap a batch, but the app you paste into may: some take every image, some cap how many they accept at once, and others take only the first.
 
 ## Lives in the menu bar
@@ -43,7 +45,7 @@ Snapkey doesn't cap a batch, but the app you paste into may: some take every ima
 Everything is in one short menu:
 
 - **Capture Now**, **Capture and Add to Batch** and **Capture Last Region Again**, for when you'd rather click than tap.
-- **Review Batch**, to see, remove or reorder the shots in your batch.
+- **Review Batch**, to see, label, remove or reorder the shots in your batch.
 - **Capture Key** and **Batch Key** submenus, where you pick the key for each. A checkmark shows the current one.
 - **Launch at Login** and **Share Anonymous Usage Stats**, on or off.
 - An **Updates** submenu with **Check Automatically**, **Check Now** and **What's New**.
@@ -69,7 +71,7 @@ Snapkey is signed by Brave People, LLC and notarized by Apple, so it opens witho
 Snapkey needs **Screen Recording** access, which macOS requires of any app that captures the screen. It only captures when you tap its key, and the image goes straight to your clipboard. Your screenshots never leave your Mac. Snapkey goes online for two things only:
 
 - **Update check.** Once a day it asks GitHub for the latest version number.
-- **Anonymous usage counts.** Once a day it reports how many captures, batch adds and re-shoots you made and how often you reviewed, trimmed or reordered a batch, along with the app version, the macOS version and a random install number. It never sends screenshots or anything about what is on your screen, and nothing identifies you. Turn it off with **Share Anonymous Usage Stats** in the menu.
+- **Anonymous usage counts.** Once a day it reports how many captures, batch adds and re-shoots you made and how often you reviewed, trimmed, reordered or labeled a batch (never the labels themselves), along with the app version, the macOS version and a random install number. It never sends screenshots or anything about what is on your screen, and nothing identifies you. Turn it off with **Share Anonymous Usage Stats** in the menu.
 
 ---
 
