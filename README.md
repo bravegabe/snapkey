@@ -70,4 +70,4 @@ Snapkey needs **Screen Recording** access, which macOS requires of any app that 
 
 ---
 
-<sub>Made by <a href="https://bravepeople.co">Brave People</a>. © 2026 Brave People, LLC. The images above are illustrations.</sub>
+<sub>Made by <a href="https://bravepeople.co">Brave People</a>, the team behind <a href="https://uxsignal.io">UX Signal</a>. © 2026 Brave People, LLC. The images above are illustrations.</sub>
