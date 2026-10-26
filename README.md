@@ -26,7 +26,7 @@ Press Esc to cancel a capture. **Double-tap** the key to capture the same area a
 
 ## Batch several shots into one paste
 
-![Six shots batched into one paste](images/snapkey-batch.png)
+![Six labeled shots batched into one paste](images/snapkey-batch-r2.png)
 
 Tap a second key (Right Option by default) and the next shot is **added** to the clipboard instead of replacing it. There's no limit: grab as many as you need, paste once, and they all land together.
 
