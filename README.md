@@ -6,7 +6,8 @@
 Tap one key, drag, release. The shot is on your clipboard.</p>
 
 <p align="center"><a href="https://github.com/bravegabe/snapkey/releases/latest"><b>Download for Mac</b></a><br>
-<sub>macOS 13 or later · Apple silicon and Intel · signed and notarized</sub></p>
+<sub>macOS 13 or later · Apple silicon and Intel · signed and notarized</sub><br>
+<sub>Share it: <a href="https://getsnapkey.com">getsnapkey.com</a></sub></p>
 
 ![Snapkey capturing part of a window](images/snapkey-in-action-r.png)
 
